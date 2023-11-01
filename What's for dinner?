@@ -1,0 +1,13 @@
+background (115,60,6);//wooden table 
+ellipse(200,200,350,350);//plate
+ellipse(200,200,300,300);
+fill(247,215,35);
+triangle(100,100,300,100,200,335);
+fill(255,0,0);
+stroke(255,0,0);
+ellipse(200,255,40,40);
+ellipse(231,184,50,50);
+ellipse(160,153,50,50);
+stroke(186,103,67);
+strokeWeight(20);
+line(106,108,292,108);
